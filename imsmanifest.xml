@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5vTJTHuZNGX_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Workplace Conflict</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Workplace_Conflict_ORG">
+    <organization identifier="Workplace_Conflict_ORG">
+      <title>Workplace Conflict</title>
+      <item identifier="Workplace_Conflict_SCO" isvisible="true" identifierref="__5vTJTHuZNGX_course_id_RES">
+        <title>Workplace Conflict</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5vTJTHuZNGX_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Ex02AtM0BQ_80_DX1152_DY1152_CX901_CY229.png" />
+      <file href="mobile/6CKkRcIlIvo_80_DX352_DY352_CX277_CY265.png" />
+      <file href="mobile/6ZK5Z9qgSYp_80_DX506_DY506_CX398_CY275.png" />
+      <file href="mobile/6TokAiaVejs_80_DX530_DY530_CX417_CY277.png" />
+      <file href="mobile/6ZK5Z9qgSYp_80_DX504_DY504_CX373_CY258.png" />
+      <file href="mobile/6ZKkmoHCIvx_80_DX48_DY48_CX37_CY37.png" />
+      <file href="mobile/6rVdBleOEAU_80_DX48_DY48_CX37_CY37.png" />
+      <file href="mobile/6HuOLqVJXF0_80_DX88_DY88_CX66_CY68.png" />
+      <file href="mobile/5iE0SmOHqNC_80_DX70_DY70_CX31_CY54.png" />
+      <file href="mobile/6nqukISAiIM_80_DX62_DY62_CX27_CY48.png" />
+      <file href="mobile/5fzi8ccRksh_80_DX50_DY50_CX14_CY37.png" />
+      <file href="mobile/5pqi5GLnvd2_80_DX44_DY44_CX14_CY33.png" />
+      <file href="mobile/6HuOLqVJXF0_80_DX88_DY88_CX28_CY29.png" />
+      <file href="mobile/5iE0SmOHqNC_80_DX70_DY70_CX14_CY24.png" />
+      <file href="mobile/6nqukISAiIM_80_DX62_DY62_CX13_CY23.png" />
+      <file href="mobile/5bBWAJNNlPT_80_DX366_DY366_CX277_CY288.png" />
+      <file href="mobile/6EHb4ZQnfcb_80_DX560_DY560_CX440_CY259.png" />
+      <file href="mobile/5zU4464lSbP_80_DX514_DY514_CX404_CY238.png" />
+      <file href="mobile/5uohlKpyhfD_80_DX356_DY356_CX279_CY270.png" />
+      <file href="mobile/5zU4464lSbP_80_DX512_DY512_CX263_CY155.png" />
+      <file href="mobile/6b5kMmZT1an_80_DX470_DY470_CX276_CY198.png" />
+      <file href="mobile/663FKc2X6HY_80_DX614_DY614_CX369_CY482.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5kRIrYqgizo.js" />
+      <file href="html5/data/js/5Y3ZV0Hbe7x.js" />
+      <file href="html5/data/js/6HV4f69VL2P.js" />
+      <file href="html5/data/js/6muMRcfoJxR.js" />
+      <file href="html5/data/js/6NfGLrNdvFT.js" />
+      <file href="html5/data/js/6TIhVQ1hwB9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/LICENSE.txt" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
